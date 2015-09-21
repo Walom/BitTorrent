@@ -1,2 +1,1 @@
-# CS352
-CS352 - Fall 2015
+# CS352 - BitTorrent - Fall 2015
